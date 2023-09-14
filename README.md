@@ -1,4 +1,4 @@
-# React + Vite
+# Đây là source code của ứng dụng TODO APP bằng React + Redux Toolkit + Api (Mock Api) + Axios + Redux Thunk
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
